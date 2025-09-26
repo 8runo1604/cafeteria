@@ -13,3 +13,4 @@ public class BebidaDTO {
     public String getTipoDescripcion() { return tipoDescripcion; }
     public void setTipoDescripcion(String tipoDescripcion) { this.tipoDescripcion = tipoDescripcion; }
 }
+
